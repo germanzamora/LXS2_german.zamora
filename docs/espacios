@@ -1,3 +1,7 @@
+Informacion de particiones
+
+
+
 Filesystem      Size  Used Avail Use% Mounted on
 udev            912M     0  912M   0% /dev
 tmpfs           187M  5,9M  181M   4% /run
